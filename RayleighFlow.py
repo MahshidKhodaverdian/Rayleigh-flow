@@ -1,4 +1,4 @@
-#Mahshid khodaverdian-Mohammad amin eslami
+#Mahshid khodaverdian
 #Rayleigh Flow
 from IPython.display import display
 import numpy as np
@@ -29,4 +29,5 @@ plt.title('Rayleigh-Flow')
 plt.xlabel('Mach')
 plt.ylabel('properties')
 plt.grid()
+
 plt.show()
